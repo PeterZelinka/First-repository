@@ -1,3 +1,2 @@
 # SMS Classification
-SMS classification using multinomila Naive Bayes algorithm
-
+SMS classification using multinomial Naive Bayes algorithm
