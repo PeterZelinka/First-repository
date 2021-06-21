@@ -3,7 +3,7 @@ This repository contains code for a SMS classifier that utlitses multinomial Nai
 
 ## The Dataset
 The dataset contains 5,572 SMS messages that were classfied by humans.
-The data itself was collected by Tiago A. Almeida and José María Gómez Hidalgo, 
+The data was collected by Tiago A. Almeida and José María Gómez Hidalgo, 
 and can be downloaded from the The UCI Machine Learning Repository [(here)](https://dq-content.s3.amazonaws.com/433/SMSSpamCollection).
 Information on the data collection process can be found on this [page](https://www.dt.fee.unicamp.br/~tiago/smsspamcollection/#composition).
 
