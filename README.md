@@ -32,4 +32,4 @@ In a directory of your choice, run:
  2. Install [Anaconda](https://www.anaconda.com/products/individual)
  3. Open JupyterNotebook
  4. Navigate to the location where you cloned the directory
- 5. Open and run Code.ipynb
+ 5. Open and run Classifier.ipynb
