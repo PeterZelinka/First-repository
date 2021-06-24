@@ -15,3 +15,23 @@ The data contains 2 columns:
 ## The multinomial Naive Bayes Formula
 
 ![Screenshot 2021-06-15 at 08 40 29](https://user-images.githubusercontent.com/85829899/122005009-6871df80-cdb5-11eb-808c-106c162de9b7.png)
+
+## Installation
+
+### Install the requirements:
+
+Install the requirements using `pip install -r requirements.txt`
+-	You may also choose to use virtual environment for this
+
+### To install the project you can either:
+
+#### A. Reproduce the analysis part:
+
+In a directory of your choice, run:
+
+ 1. `git clone https://github.com/PeterZelinka/Cardinality-Constrained-Portfolio-Optimisation.git`
+
+ 2. Install [Anaconda](https://www.anaconda.com/products/individual)
+ 3. Open JupyterNotebook
+ 4. Navigate to the location where you cloned the directory
+ 5. Open and run Analysis.ipynb
