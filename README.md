@@ -23,15 +23,13 @@ The data contains 2 columns:
 Install the requirements using `pip install -r requirements.txt`
 -	You may also choose to use virtual environment for this
 
-### To install the project you can either:
-
-#### A. Reproduce the analysis part:
+### To install the project:
 
 In a directory of your choice, run:
 
- 1. `git clone https://github.com/PeterZelinka/Cardinality-Constrained-Portfolio-Optimisation.git`
+ 1. `git clone https://github.com/PeterZelinka/Message-Classifier.git`
 
  2. Install [Anaconda](https://www.anaconda.com/products/individual)
  3. Open JupyterNotebook
  4. Navigate to the location where you cloned the directory
- 5. Open and run Analysis.ipynb
+ 5. Open and run Code.ipynb
