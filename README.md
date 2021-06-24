@@ -20,7 +20,7 @@ The data contains 2 columns:
 
 ### Install the requirements:
 
-Install the requirements using `pip install -r requirements.txt`
+To install the requirements you can use `pip install -r requirements.txt`
 -	You may also choose to use virtual environment for this
 
 ### To install the project:
